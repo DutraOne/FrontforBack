@@ -65,7 +65,6 @@ main{
 #registerForm h2{
     height: 20px;
     width: 80%;
-
     font-size: 1.6em;
     font-weight: bold;
     text-align: center;
@@ -73,8 +72,8 @@ main{
 #registerForm input{
     height: 30px;
     width: 80%;
-    border-radius: 20px;
-
+    border-radius: 5px;
+    border: 1px solid #1005ac;
     text-align: center;
     font-size: 1.1em;
 }
@@ -88,7 +87,6 @@ main{
     background-color: #1005ac;
     border-radius: 20px;
     border-color: #1005ac;
-
     color: #ffffff;
     font-size: 1.1em;
     font-weight: bold;
